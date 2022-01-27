@@ -6,3 +6,5 @@ const divide = (a, b) => {
 }
 
 const power = (a, b) => a ** b;
+
+const subtract = (a, b) => a - b;
