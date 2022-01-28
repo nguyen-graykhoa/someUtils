@@ -10,3 +10,5 @@ const power = (a, b) => a ** b;
 const subtract = (a, b) => a - b;
 
 const add = (x, y) => x + y;
+
+const divide2 = (a, b) => a / b;
